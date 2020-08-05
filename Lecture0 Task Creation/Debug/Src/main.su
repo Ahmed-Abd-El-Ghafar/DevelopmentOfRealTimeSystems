@@ -1,0 +1,6 @@
+main.c:258:6:R_Task1	8	static
+main.c:279:6:R_Task2	8	static
+main.c:159:6:SystemClock_Config	96	static
+main.c:71:5:main	96	static
+main.c:300:6:HAL_TIM_PeriodElapsedCallback	0	static
+main.c:317:6:Error_Handler	0	static
